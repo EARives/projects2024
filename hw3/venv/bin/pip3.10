@@ -1,4 +1,4 @@
-#!/home/earives/projects2024/hw3/myenv/bin/python
+#!/home/earives/projects2024/hw3/my_env/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
