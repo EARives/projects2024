@@ -1,4 +1,5 @@
 from decimal import Decimal
+from typing import Any, Callable
 import pytest
 from calculator.calculation import Calculation
 from calculator.operations import add, subtract, multiply, divide
